@@ -1,0 +1,47 @@
+#root {
+    margin: auto;  
+    text-align: center;  
+}
+
+body {
+  background: url("https://images.unsplash.com/photo-1542961996-3f032eec02cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NTJ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60")no-repeat;
+  background-size: cover;
+}
+
+.form {
+  margin-left: 2rem;
+  border: 2px solid red;
+  height: 30rem;
+  width: 20rem;
+  display: grid;
+  justify-content: center;
+}
+
+.form label {
+  margin-top: auto;
+  color: rgb(213, 220, 227);
+}
+
+.form input {
+  width: 15rem;
+  height: 2rem;
+}
+
+.showtable {
+  color: azure;
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+
+.showtable th,
+td {
+  border: 1px solid;
+}
+
+#btn {
+  width: 10rem;
+  height: 2.5rem;
+  margin-top: 2rem;
+  justify-self: center;
+  background-color: aquamarine;
+}

@@ -1,0 +1,16 @@
+#showdata{
+    color: white;
+    display: grid;
+}
+
+#showdata p{
+    margin: auto;
+}
+
+.inputtext{
+    margin: auto;
+}
+
+.inputtext input{
+    margin: 1%;
+}
